@@ -1,4 +1,4 @@
-# (Gide Inc.) - Argument Mining with Tone Analysis 6.0 
+Argument Mining with Tone Analysis 6.0 
 
 - This is currently still in BETA mode. We need to fine-tune and tweek the seed files (argument files) to better 
 extract arguments
